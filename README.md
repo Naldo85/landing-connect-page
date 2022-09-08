@@ -18,13 +18,12 @@ Landing Page é uma página otimizada para conversão que possui apenas uma aç�
 - 8 Passo -	Detalhes visuais da página 
 - 9 Passo -	Iniciando com CSS e adicionando as classes 
 - 10 Passo -	Importanto fontes no Google Fonts 
-- 11 Passo -	Reset CSS: apagando pré configurações
-- 12 Passo -	Estilizando o body 
-- 13 Passo -	Importanto o CSS no HTML
-- 14 Passo -	Estilizando o cabeçalho 
-- 15 Passo -	Flexbox: conceitos e como utilizar 
-- 16 Passo -	Estilizando conteúdo principal  
-- 17 Passo -	Estilizando o footer 
-- 18 Passo -	Efeito hover: estilo ao passar o mouse por cima 
-- 19 Passo -	Adicionando links no menu e botões
-- 20 Passo -	Finalização 
+- 11 Passo -	Estilizando o body 
+- 12 Passo -	Importanto o CSS no HTML
+- 13 Passo -	Estilizando o cabeçalho 
+- 14 Passo -	Flexbox: conceitos e como utilizar 
+- 15 Passo -	Estilizando conteúdo principal  
+- 16 Passo -	Estilizando o footer 
+- 17 Passo -	Efeito hover: estilo ao passar o mouse por cima 
+- 18 Passo -	Adicionando links no menu e botões
+- 19 Passo -	Finalização 
