@@ -6,7 +6,7 @@ Landing Page é uma página otimizada para conversão que possui apenas uma aç�
 
 
 
-## Criando o projeto
+## Criando o projeto ( HTML + CSS )
 
 - 1 Passo -	Configurar o ambiente (IDE)
 - 2 Passo -	Iniciando com HTML 
