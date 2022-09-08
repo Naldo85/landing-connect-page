@@ -1,4 +1,4 @@
-# connection-page
+# landing-connect-page
 
 ## O que é Landing Page?
 
